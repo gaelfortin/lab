@@ -1,1 +1,0 @@
-added test to explain that no double digestion possible when only_vec and only_constr empty
