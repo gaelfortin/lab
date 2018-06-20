@@ -9,4 +9,7 @@ Fire(d)Cloning designs cloning experiments in a few minuts. Put your backbones' 
 After giving cloning positions, the software will finally give you couples of enzymes that you can use to perform the cloning. <p>
 
 
-<b> More information on DigestMayo and Fire(d)Cloning is available on the wiki pages of this repository </b>
+<b> More information on DigestMayo and Fire(d)Cloning is available on the wiki pages of this repository. </b> <br>
+<b> The standalone softwares are only available on Windows. To run them on other OS, please use the .py files with Python.</b>
+
+
