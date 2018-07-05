@@ -1,2 +1,3 @@
 Update of output information
 Simplification of cloning without removing a fragment
+Analysis now outputted in a report file!
